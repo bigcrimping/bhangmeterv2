@@ -8,19 +8,19 @@ The BhangmeterV2 is a RaspberryPiPico2W powered device which detect the gamma ra
 
 The Bhangmeter V2 employs an HSN-1000L Nuclear Event Detector to register the initial gamma ray burst from a nuclear explosion. This burst travels at the speed of light and reaches the detector almost instantly. It is followed shortly by the neutron flux—traveling at roughly 10% the speed of light—and then the blast wave, which moves much slower at Mach 1.5 to 3, arriving several milliseconds to seconds later depending on the distance.
 
-![blast_to_diode](https://github.com/user-attachments/assets/2bece322-5ea8-42a5-8049-cbf15bcab559)
+<img src="https://github.com/user-attachments/assets/2bece322-5ea8-42a5-8049-cbf15bcab559" alt="blast_to_diode" height="200px">
 
 The HSN-1000L detects the gamma burst and outputs an active-low pulse, which the microcontroller interprets as a "Nuclear Event Detection" (NED). This triggers a routine that logs the exact time of the event.
 
-![computer](https://github.com/user-attachments/assets/aab75a1a-f552-4dfd-8801-7d6a44f75b4a)
+<img src="https://github.com/user-attachments/assets/aab75a1a-f552-4dfd-8801-7d6a44f75b4a" alt="computer" height="200px">
 
 Once detected by the onboard computer, the NED timestamp is uploaded to the cloud for permanent storage.
 
-![cloud](https://github.com/user-attachments/assets/db108309-35af-473e-91ee-56fc62db3a8e)
+<img src="https://github.com/user-attachments/assets/db108309-35af-473e-91ee-56fc62db3a8e" alt="cloud" height="200px">
 
 A short time later—depending on the distance from the detonation site—the blast wave reaches the Bhangmeter V2, marking the completion of its mission. Its specialized polymer casing provides brief ablative cooling upon impact.
 
-![destruct](https://github.com/user-attachments/assets/f742e814-d996-41aa-b983-b5ae7cac90e1)
+<img src="https://github.com/user-attachments/assets/f742e814-d996-41aa-b983-b5ae7cac90e1" alt="destruct" height="200px">
 
 # Software Setup
 
@@ -32,5 +32,6 @@ You will need to update the secrets file with your wifi details, your github tok
 
 # Mechanical Build
 
-![Build_Instructions_bh](https://github.com/user-attachments/assets/79fe3f5b-c295-4410-a7aa-454044795b2e)
+<img src="https://github.com/user-attachments/assets/79fe3f5b-c295-4410-a7aa-454044795b2e" alt="Build_Instructions_bh" height="200px">
+
 
