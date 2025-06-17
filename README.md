@@ -28,6 +28,7 @@ The PCB is a simple double-sided board. The Gerbers are in the relevant folder a
   <img src="https://github.com/user-attachments/assets/6a45c632-b0fe-4354-8b7f-7c28b8e98fa8" alt="pcb_top">
 </div>
 
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d13b05cb-b5cc-4c9b-bd02-011d11860dd1" alt="pcb_bot">
 </div>
