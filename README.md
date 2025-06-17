@@ -1,4 +1,4 @@
-# Nuclear Event Detector - bhangmeterv2
+# Nuclear Event Detector - bhangmeterV2
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c01477d0-82af-4875-ba32-bf114a4e8395" alt="Untitled-1">
