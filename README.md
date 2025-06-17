@@ -39,3 +39,6 @@ You will need to update the secrets file with your wifi details, your github tok
 The PCB is a simple double sided board, the gerbers are in the relevant folder and should be easy to produce by any PCB vendor
 
 ![image](https://github.com/user-attachments/assets/6a45c632-b0fe-4354-8b7f-7c28b8e98fa8)
+
+![pcb_bot](https://github.com/user-attachments/assets/d13b05cb-b5cc-4c9b-bd02-011d11860dd1)
+
