@@ -33,6 +33,12 @@ The PCB is a simple double-sided board. The Gerbers are in the relevant folder a
   <img src="https://github.com/user-attachments/assets/d13b05cb-b5cc-4c9b-bd02-011d11860dd1" alt="pcb_bot">
 </div>
 
+# BIST (Built in self test)
+
+As it is largely impractical to set off a weapon to test the device is functionality the BIST pin of the HSN-1000L can be asserted to trigger the NED pin and confirm the device is working OK.
+
+The SW1 switch triggers this functionality, on successful test the BIST button illuminates green
+
 # How does it work?
 
 The Bhangmeter V2 employs an HSN-1000L Nuclear Event Detector to register the initial gamma ray burst from a nuclear explosion. This burst travels at the speed of light and reaches the detector almost instantly. It is followed shortly by the neutron flux—traveling at roughly 10% the speed of light—and then the blast wave, which moves much slower at Mach 1.5 to 3, arriving several milliseconds to seconds later depending on the distance.
@@ -58,3 +64,5 @@ A short time later—depending on the distance from the detonation site—the bl
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f742e814-d996-41aa-b983-b5ae7cac90e1" alt="destruct" height="200px">
 </div>
+
+
