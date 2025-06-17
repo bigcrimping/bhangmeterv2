@@ -32,6 +32,6 @@ You will need to update the secrets file with your wifi details, your github tok
 
 # Mechanical Build
 
-<img src="https://github.com/user-attachments/assets/79fe3f5b-c295-4410-a7aa-454044795b2e" alt="Build_Instructions_bh" height="200px">
+<img src="https://github.com/user-attachments/assets/79fe3f5b-c295-4410-a7aa-454044795b2e" alt="Build_Instructions_bh">
 
 
