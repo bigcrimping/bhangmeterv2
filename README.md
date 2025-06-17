@@ -6,6 +6,12 @@
 
 The BhangmeterV2 is a RaspberryPiPico2W powered device which detects the gamma ray burst from a nuclear explosion and uploads the details into a JSON.
 
+On start-up all three lights flash until WiFi is connected.
+Every minute the JSON is updated with the latest status of the device.
+On detection of a nuclear event the JSON is updated and timestamp added, the red indicator is then lit.
+
+The latest status can be found at [www.hasanukegoneoff.com](https://www.hasanukegoneoff.com)
+
 # Software Setup
 
 To setup the Raspberry Pi, load MicroPython from https://micropython.org/download/
