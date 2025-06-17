@@ -34,4 +34,8 @@ You will need to update the secrets file with your wifi details, your github tok
 
 <img src="https://github.com/user-attachments/assets/79fe3f5b-c295-4410-a7aa-454044795b2e" alt="Build_Instructions_bh">
 
+# PCB Build
 
+The PCB is a simple double sided board, the gerbers are in the relevant folder and should be easy to produce by any PCB vendor
+
+![image](https://github.com/user-attachments/assets/6a45c632-b0fe-4354-8b7f-7c28b8e98fa8)
